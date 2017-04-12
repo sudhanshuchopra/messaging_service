@@ -8,3 +8,6 @@
 <li>Start the virtualenv and write command <code>pip3 install -r requirements.txt</li>
 <li>run the project on localserver</li>
 </ul>
+
+<h3>Important URLS</h3>
+
