@@ -10,4 +10,9 @@
 </ul>
 
 <h3>Important URLS</h3>
+<ul>
+<li>For signup http://localhost:8000/accounts/register</li>
+<li>for msg-list and msg-create  http://localhost:8000/messages/msg</li>
+<li>for msg-delete msg-detail and msg-update http://localhost:8000/messages/msg/?P<pk>[0-9]+/</li>
+</ul>
 
