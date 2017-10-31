@@ -10,6 +10,7 @@
 </ul>
 
 <h3>Important URLS</h3>
+<li> Hello check
 <ul>
 <li>For signup http://localhost:8000/accounts/register</li>
 <li>for msg-list and msg-create  http://localhost:8000/messages/msg</li>
